@@ -1,0 +1,144 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: xsMa57gYg/0fDC2q5aMd9RTtgNs83
+ zula+WqSmhPV2A=
+SHA-256-Digest-Manifest: AgljNCUXCSbYdUhL2s1kKQ+MSqR9h5VJU8JcKCefR3Q=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: com/jgoodies/forms/util/WindowsLayoutStyle.java
+SHA-256-Digest: RPy7SDYPzMpyhEEAYUquSORvpV2i1WBTK2ucGcGy/7Q=
+
+Name: com/jgoodies/forms/factories/DefaultComponentFactory.java
+SHA-256-Digest: c1qyBUz9IE1Yru4o/Jn6PZUK3Tph7QjqtHIHeOqlhGE=
+
+Name: com/jgoodies/forms/util/package.html
+SHA-256-Digest: p1PqF0FyxAu54qc/qaRwRLSKGjFBOwZm61IJM+XzALw=
+
+Name: com/jgoodies/forms/builder/ButtonStackBuilder.java
+SHA-256-Digest: Fem48D/mpRMywkvklimNaBWM4U1KAk5OVUfK8w9AbkU=
+
+Name: com/jgoodies/forms/internal/FocusTraversalUtilsAccessor.java
+SHA-256-Digest: dE9dtBwJFC8e9GsKs/V1pZRUgO74VxU43LVqcphseTc=
+
+Name: com/jgoodies/forms/layout/Sizes.java
+SHA-256-Digest: WZR37StrW+siWVbkRjBXLQw/oa2usRfDtzDDQ7LPCEM=
+
+Name: com/jgoodies/forms/util/FormUtils.java
+SHA-256-Digest: r/pTNUrOrULNi+xPJ9Lj8VdyMMtcUevyVOjQwWsLXOo=
+
+Name: com/jgoodies/forms/layout/ConstantSize.java
+SHA-256-Digest: MUcmeZ9gek1DCBBlpDaoibPm4CYFczRrtP0qAKjzsvM=
+
+Name: com/jgoodies/forms/layout/PrototypeSize.java
+SHA-256-Digest: 2Fjnpa+mi24mRrk1EIJ3Z7bYDUOT4+EgTZq1qFFB9Qk=
+
+Name: com/jgoodies/forms/util/UnitConverter.java
+SHA-256-Digest: ULphJUMqHB85WL/VAFjELK3I0p2rqJmGXHAVtyziEDE=
+
+Name: com/jgoodies/forms/builder/PanelBuilder.java
+SHA-256-Digest: 0SONX8mKvND/x5Cgw4atAGVeUtrdN73s0Tfeoo7PLIw=
+
+Name: com/jgoodies/forms/layout/LayoutMap.java
+SHA-256-Digest: +dqGytopvZ5plhv8HniApR70HK2fBBBpD03SzCukBA4=
+
+Name: com/jgoodies/forms/layout/RowSpec.java
+SHA-256-Digest: /Q2ae8MEx5KX8TBJpyEbYLzn4Q5YuObC5+Q1plA/Cw4=
+
+Name: com/jgoodies/forms/debug/FormDebugPanel.java
+SHA-256-Digest: 2UTCWsAB+MZFThsrXHqKGN7M2hxFh6UWmFK25JCWFEw=
+
+Name: com/jgoodies/forms/layout/FormSpec.java
+SHA-256-Digest: DRRJbAHGaqMDxFT9aDDqpVEnYS9GEP+uPEY9rm6VOFI=
+
+Name: com/jgoodies/forms/builder/DefaultFormBuilder.java
+SHA-256-Digest: VbUIwNZgRnt/NmCL2aFtYrUcqP8HZTbsyOO5y1LHIYc=
+
+Name: com/jgoodies/forms/layout/package.html
+SHA-256-Digest: Uek0re0A3dksMHX2Ul0ZUEj7HEt6YUtxX8ggXCZbX7c=
+
+Name: com/jgoodies/forms/builder/AbstractFormBuilder.java
+SHA-256-Digest: 2IJvxEWtPjRROFaxf/4awCHd9idM9hQoU90Ob8oE+JI=
+
+Name: com/jgoodies/forms/extras/FormLayoutUtils.java
+SHA-256-Digest: h6pmHHIZpHm0mBePsnC0UGPqrURkZKzbzgtncZEymU0=
+
+Name: com/jgoodies/forms/layout/BoundedSize.java
+SHA-256-Digest: lNicbTyqtQMpgwxROMDvmzrXVZnLWTUTQ3W9OHrrK9w=
+
+Name: com/jgoodies/forms/builder/ButtonBarBuilder.java
+SHA-256-Digest: Bi1UGAMc3xJ+tc4RMw2XreFqBjM5P4v0jMIm2NzIY7o=
+
+Name: com/jgoodies/forms/builder/I15dPanelBuilder.java
+SHA-256-Digest: WkyQnrkB4kmbmQntHtr1BCjxRkZ/5+u3zBpLrsrOPQ0=
+
+Name: com/jgoodies/forms/layout/Size.java
+SHA-256-Digest: GO7C4ZHMNcFrreCGbwGZ3Eb9zI7jQfqbYBAZgyLKjsk=
+
+Name: com/jgoodies/forms/factories/package.html
+SHA-256-Digest: q8+aabvwrB7EmMS6dU7kFQs8e1l4bOe6dkwMgib4Hyg=
+
+Name: com/jgoodies/forms/builder/package.html
+SHA-256-Digest: HbdCiJS4shlYKYUYLDaZGrhIusemZpaxOoNxMcXKNo0=
+
+Name: com/jgoodies/forms/util/LayoutStyle.java
+SHA-256-Digest: bZIPHiWPX6cAzR6tDTUv39lNcLFEEgmzTPeYaS0iESU=
+
+Name: com/jgoodies/forms/debug/FormDebugUtils.java
+SHA-256-Digest: Y4UnUhOBmmtJ5Qa9aclTZctgtBIL31WdTt1P1jRZ9c4=
+
+Name: com/jgoodies/forms/factories/Borders.java
+SHA-256-Digest: hBcEQJ8oQz7/gtOK9Ase+IY5vgJHt2PDYmx05Hk86QI=
+
+Name: com/jgoodies/forms/layout/FormSpecParser.java
+SHA-256-Digest: YUeSg4nezAD6AK8xlYq+ECvY5tE99xA70ZNG1ynBKV8=
+
+Name: overview.html
+SHA-256-Digest: F6NeXznK1G+gcB6ayDXMR3ZsqOY7LpRUgDlAVddsB6w=
+
+Name: com/jgoodies/forms/factories/ComponentFactory.java
+SHA-256-Digest: B9EWE0GVy7EwJqi4wKQukmtzNS6aFDRzhXed0AsnQ2Y=
+
+Name: com/jgoodies/forms/factories/CC.java
+SHA-256-Digest: HQztU6YWwzHi3kZPabitopUUYAETat+KMYQqNvMoMWQ=
+
+Name: com/jgoodies/forms/builder/ListViewBuilder.java
+SHA-256-Digest: LS6rjQ0rGtrTE0y+Q9vBrIIlRRwo8WRzANbh1HLuug4=
+
+Name: com/jgoodies/forms/layout/ColumnSpec.java
+SHA-256-Digest: 9VLpZqgq54aEZ0CAQpY9NKfpbtZ+XsWjw2ZzqX5esF0=
+
+Name: com/jgoodies/forms/layout/CellConstraints.java
+SHA-256-Digest: gR5QxDHyrc1HkZ1/ru3y8v8gCKq1Vh/BRqoy3SumfT4=
+
+Name: com/jgoodies/forms/layout/FormSpecs.java
+SHA-256-Digest: kSzeBPUowmYJxfWIW7iwJmQ2WyL9TQHsUbzE4TIZnxk=
+
+Name: com/jgoodies/forms/util/AbstractUnitConverter.java
+SHA-256-Digest: +bsjl7X/6kNiW91mxnstB6yW2ZAEu+Wd/BfO528DFQw=
+
+Name: com/jgoodies/forms/extras/package.html
+SHA-256-Digest: /YNbkJfsyfnk/euXpam2EAdKMZC+uFOk2RUf2w3pdYY=
+
+Name: com/jgoodies/forms/factories/Forms.java
+SHA-256-Digest: hB12UH9r/QeGfcMmTPpcNR3Yq6TZEuPk++jtYgNn8E8=
+
+Name: com/jgoodies/forms/util/MacLayoutStyle.java
+SHA-256-Digest: yAAK9wUmWlev/Cc5+2JiWYCjto2ixQZmgP7fYTbMHnY=
+
+Name: com/jgoodies/forms/builder/AbstractBuilder.java
+SHA-256-Digest: bWn+i6uhlpQXIG6J64VVIByeBC9JHnlmPt2Hw+triKg=
+
+Name: com/jgoodies/forms/builder/AbstractButtonPanelBuilder.java
+SHA-256-Digest: 0MjXyxRYQwOXg5yEBvkycq705A7K0Bvo4lgb492Ebhc=
+
+Name: com/jgoodies/forms/FormsSetup.java
+SHA-256-Digest: 38+Q6UoRFWoI0fwDrtLy9xAjn+hZ/GeSiKj3cM/xQIs=
+
+Name: com/jgoodies/forms/layout/FormLayout.java
+SHA-256-Digest: KC+U/510Ry/t+iEX0xusZRYwN5EpYLcPnrSmWSL0HOY=
+
+Name: com/jgoodies/forms/debug/package.html
+SHA-256-Digest: F+u+PmkyDFfwpSKk7+rd6gdqBuFzwzDLX9fuX6nRAq4=
+
+Name: com/jgoodies/forms/util/DefaultUnitConverter.java
+SHA-256-Digest: VmsbERCEbb8PBEDG/k3FXYP/tndvTreGa9kgXHqYl0U=
+

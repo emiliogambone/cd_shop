@@ -1,0 +1,212 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 06Sh0HKOqhgdFMwgJJcBO8KuPnFZq
+ 337raFTJSy9OZI=
+SHA-256-Digest-Manifest: VoPn9OyzKaDrgaNF5ZuxAaGslRlwiLnbEu5tSYmj68Y=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: com/jgoodies/forms/layout/FormLayout$LayoutInfo.class
+SHA-256-Digest: Ux9Oqmi+JWEM+pgFFDflkVXCNqDLKEVN4OTREswwjzo=
+
+Name: com/jgoodies/forms/builder/ButtonBarBuilder.class
+SHA-256-Digest: l1sww4qdH1Z+bnSQjJH8j0Q1SXrwEEfbbuM71MclDpc=
+
+Name: com/jgoodies/forms/layout/Sizes.class
+SHA-256-Digest: VfNoHzV8aMObeSrpD0Nz2Xw6gzSJRekCFVpLK/zpdy4=
+
+Name: com/jgoodies/forms/layout/FormLayout$ComponentSizeCache.class
+SHA-256-Digest: 5a6NThEPwL2T45iWckWyHRwCY4bSaT5KvWu8U7UuF2w=
+
+Name: com/jgoodies/forms/util/MacLayoutStyle.class
+SHA-256-Digest: LSLEEvkZH4JKPGyjyuZXmZRpc88EBaIfUGOSiCEgk2M=
+
+Name: com/jgoodies/forms/layout/FormLayout$MinimumWidthMeasure.class
+SHA-256-Digest: 24uj9XpQ0Ql8UKFIpKSRG3bC2b8duziwgdEcUY+v/4g=
+
+Name: com/jgoodies/forms/builder/ButtonStackBuilder.class
+SHA-256-Digest: O+AXwWnQ5Kxc6eIK8vnp9j3CuZvIN+UhqPIGkY6DfWc=
+
+Name: com/jgoodies/forms/layout/FormSpecParser$Multiplier.class
+SHA-256-Digest: +4R5oVrGVtC1UK4lZgu08MUH+NqF3UpcX8GBrehl+Hw=
+
+Name: com/jgoodies/forms/layout/FormLayout$MinimumHeightMeasure.class
+SHA-256-Digest: JDwZ3E/Q4tYxWKJVXZ94ZzwlGpQreQ4JYLikFa6GOVE=
+
+Name: com/jgoodies/forms/builder/AbstractButtonPanelBuilder.class
+SHA-256-Digest: G2pxaCeut4JfU/H3sINn2aNSz0kGJ1c3uf3FFjxvwo8=
+
+Name: com/jgoodies/forms/builder/I15dPanelBuilder.class
+SHA-256-Digest: Js2c27ikgoU9NLqrGxYMMLrqAIVMERsW3D8dgo7X6Aw=
+
+Name: com/jgoodies/forms/util/LayoutStyle.class
+SHA-256-Digest: u7vQESmvKOzCIxcVE5HWmvRU0/lw66xS/qge+gE/v54=
+
+Name: com/jgoodies/forms/builder/AbstractBuilder.class
+SHA-256-Digest: ZbwTaxnH3P/8tWj4wzr2L46mXi1LfdVjFX1LD9b7B+8=
+
+Name: com/jgoodies/forms/layout/FormSpecParser.class
+SHA-256-Digest: 0BVfTF4/ZI3cCrbTkMMxHV4RJDsp8lzEQso1cA40hTg=
+
+Name: com/jgoodies/forms/layout/FormLayout$PreferredHeightMeasure.clas
+ s
+SHA-256-Digest: 0rgHGDRADJ2+Y3g+DUTYhqW5aA6PRR7SImrKzJsQ0AY=
+
+Name: com/jgoodies/forms/factories/Forms.class
+SHA-256-Digest: 0KGSTuLQuAulzi97EnhJhIub9+fbCNPYh9fmfCwLGGk=
+
+Name: com/jgoodies/forms/util/UnitConverter.class
+SHA-256-Digest: +pjeWCjptffV/PlWbKv6O0IUdvO5V2+EbAEAOhgN6vk=
+
+Name: com/jgoodies/forms/layout/BoundedSize.class
+SHA-256-Digest: kToC0GQxXiiC0YU6SODQXApaRiss+NkYoh37toXfZD4=
+
+Name: com/jgoodies/forms/layout/FormLayout.class
+SHA-256-Digest: 4oP85TtZFff3T220IWowCRyqAxL+TO1oYD+0DznVFZA=
+
+Name: com/jgoodies/forms/layout/ConstantSize.class
+SHA-256-Digest: iw4BzkPSsTutnQgT0MJYn4sZs1dXZtOnoTZ94SIFJmQ=
+
+Name: com/jgoodies/forms/layout/RowSpec.class
+SHA-256-Digest: zrSP3xtDft2fXK6N0ZSr9cli0g+B9y1xkbjuZpzmh6I=
+
+Name: com/jgoodies/forms/layout/ConstantSize$Unit.class
+SHA-256-Digest: 3kdVX4ArItBsoxYz1d99VR3mvXC6tNMbbQ0/JocYZ2c=
+
+Name: com/jgoodies/forms/factories/DefaultComponentFactory$ReadOnlyLab
+ el.class
+SHA-256-Digest: mg5YIyFcIAqFkJlsO1LI6xtub7sYwC7xI5RRGg2pjvc=
+
+Name: com/jgoodies/forms/layout/FormLayout$PreferredWidthMeasure.class
+SHA-256-Digest: iobBQB6O5L1IeYRe0WY1vabP/4XuDFKeOGb8OhhdIAo=
+
+Name: com/jgoodies/forms/util/AbstractUnitConverter.class
+SHA-256-Digest: /X2BX9/l2S3n3gmJL3rtHzxNjZZBLMTErBTubXPe6Zk=
+
+Name: com/jgoodies/forms/layout/FormLayout$1.class
+SHA-256-Digest: Y7YDGdgAhxI0lcwobeyrETIGrM5am0jrUK7yvx67uaA=
+
+Name: com/jgoodies/forms/factories/ComponentFactory.class
+SHA-256-Digest: 3Xu98TYVafUyB58/rIM6HK8Y51gcvrbV7fjsZJJ0PSk=
+
+Name: com/jgoodies/forms/layout/ConstantSize$1.class
+SHA-256-Digest: 6CAglqXuspRO89DbFqEHZ4BCDp4x/PoRQR1oD29UDsM=
+
+Name: com/jgoodies/forms/factories/Borders$EmptyBorder.class
+SHA-256-Digest: Oum5UUrBrGyOyLcS3wQUZEZbw3WwO6JBSMU8QaiQ13Q=
+
+Name: com/jgoodies/forms/layout/PrototypeSize.class
+SHA-256-Digest: F4yIOr28mqhQYwkCJqE6PKhz4fu/T3K9V7nre2xCIO4=
+
+Name: com/jgoodies/forms/layout/FormSpecs.class
+SHA-256-Digest: EnxuvT9dRLmUzYuA9t8V4l+L9O/UU7EX1H14Igxb1d8=
+
+Name: com/jgoodies/forms/layout/LayoutMap.class
+SHA-256-Digest: TqeSkwmg+dSscJ0zTRiL33K1yPXw3NJLWOKpsjsv/M4=
+
+Name: com/jgoodies/forms/util/DefaultUnitConverter$DialogBaseUnits.cla
+ ss
+SHA-256-Digest: ePTAaXHI2vvAVhKMqlBn3/uxCb2fRRPTErMvOCT6lr4=
+
+Name: com/jgoodies/forms/layout/ColumnSpec.class
+SHA-256-Digest: 0xfQ6KyR9vavQFdTnjyGEXleBBMnf0Kij6vOtgZOUoc=
+
+Name: com/jgoodies/forms/factories/CC.class
+SHA-256-Digest: 5pwvHhdBuks/fO99AFR4mKQE4LjvLlKGNJIcS6R1J4Q=
+
+Name: com/jgoodies/forms/layout/Size.class
+SHA-256-Digest: UcMn5Jwd8Q5r166twBrRDUI79UTPIk69HJnLy9rqGmk=
+
+Name: com/jgoodies/forms/builder/DefaultFormBuilder.class
+SHA-256-Digest: VArk8NpxNixHI6o3tIRRdOt78vJmXcpKSxUQAsgL1yk=
+
+Name: com/jgoodies/forms/factories/DefaultComponentFactory.class
+SHA-256-Digest: X6oFGPlP9uJdN5g/PJ9Xg9wLuoDeBVi3AG2kSfRXICY=
+
+Name: com/jgoodies/forms/factories/DefaultComponentFactory$FormsLabel$
+ AccessibleFormsLabel.class
+SHA-256-Digest: VagVaDnoJhVku/1LI1j3JNMpuy0aLCwjSU/tpHX5oJA=
+
+Name: com/jgoodies/forms/layout/CellConstraints$Alignment.class
+SHA-256-Digest: +0IgRF+BFZiDthzWQx5V9Z590cM/IZAtTBg9+CSgXcQ=
+
+Name: com/jgoodies/forms/util/WindowsLayoutStyle.class
+SHA-256-Digest: cgXbyqap1Gk8mNGRyOCqVDoh3tiRqP0iT5XDxFkezEk=
+
+Name: com/jgoodies/forms/factories/Borders.class
+SHA-256-Digest: Kv8mSeltoe1odE9Jf0zl+4v/rOtgMAiLhIBHpI/vrzM=
+
+Name: com/jgoodies/forms/factories/DefaultComponentFactory$TitledSepar
+ atorLayout.class
+SHA-256-Digest: e+psdbEmZ3IpZqppsY7XA2+2ll8wnK9dvrH8iJLkUb0=
+
+Name: com/jgoodies/forms/layout/FormSpecParser$FormLayoutParseExceptio
+ n.class
+SHA-256-Digest: EnZ9X3CY4OfEO1tDFf68A00Nzch7WTnMDSyN5b6JAXU=
+
+Name: com/jgoodies/forms/layout/FormSpec$1.class
+SHA-256-Digest: OJ+ULpWSFM+CBWFRfQzs46lqJqbVB1zcRBWQbPSgB+c=
+
+Name: com/jgoodies/forms/util/FormUtils.class
+SHA-256-Digest: qdooMXReMHRfQxXP/Mqw/tXputfLAikCFOv6U27rma0=
+
+Name: com/jgoodies/forms/factories/Borders$1.class
+SHA-256-Digest: z9fPW0i+/7gxrf7D96ZuSLuQTQpYYtfct2fq5jjxqdc=
+
+Name: com/jgoodies/forms/util/DefaultUnitConverter.class
+SHA-256-Digest: +W+BLhz29WPcVAZZGsHQYlnBZDwctN2MXboYkdWhTdY=
+
+Name: com/jgoodies/forms/factories/DefaultComponentFactory$TitleLabel.
+ class
+SHA-256-Digest: Qdsoo0qECddGyzaSnCSFG8418zvi1qPrBCU1nSZ4PHo=
+
+Name: com/jgoodies/forms/layout/FormSpec$DefaultAlignment.class
+SHA-256-Digest: WLGeRGDzbPZUmvQR5TRsvCgh+qw6j7YWIQIRqXM5V5U=
+
+Name: com/jgoodies/forms/layout/Sizes$1.class
+SHA-256-Digest: Wf29Biqg6iXiV2YISzgqAP99cL3MGEAbo6H8a810aE0=
+
+Name: com/jgoodies/forms/layout/FormLayout$CachingMeasure.class
+SHA-256-Digest: RB/5JH8x9nH45uJLZ7YNpYaETyCHayUxnprGdmyOx6U=
+
+Name: com/jgoodies/forms/layout/CellConstraints.class
+SHA-256-Digest: F04Zt5U4co/CPTeKlbMJy/tYq0glMsuAPoFHnxlvEvs=
+
+Name: com/jgoodies/forms/internal/FocusTraversalUtilsAccessor.class
+SHA-256-Digest: tNz85hH5kBai5fKyDfvWjr+RDEr2Y3clp72DTE+d2GY=
+
+Name: com/jgoodies/forms/layout/FormLayout$Measure.class
+SHA-256-Digest: YFf/LRUfKzkTtLgPVdBr1a+pYAUj2m+RC5ZjxHD/8n0=
+
+Name: com/jgoodies/forms/layout/Sizes$ComponentSize.class
+SHA-256-Digest: LXEYPt+K/W8nyJzQnfPL9J5OLib1FOS5MG9P89SQ2Bo=
+
+Name: com/jgoodies/forms/factories/DefaultComponentFactory$1.class
+SHA-256-Digest: 7hH9dlrUsmQ1xgJIVrq13X9n4YZnLid9LXo5nqiua1I=
+
+Name: com/jgoodies/forms/builder/AbstractFormBuilder.class
+SHA-256-Digest: LpQ7YlPLwV/BGrUHnN+1fOnRFT84Y7wvUHS+AFUtLpg=
+
+Name: com/jgoodies/forms/debug/FormDebugPanel.class
+SHA-256-Digest: vuHG+eIxPn9SUSo+iSBQnLJzFUY+pqsYw8t6l0MsTDM=
+
+Name: com/jgoodies/forms/layout/FormSpec.class
+SHA-256-Digest: MpNi9GbjDdWtSQfojgJWxrs3v8zzzw1Mm5IE40PtMEg=
+
+Name: com/jgoodies/forms/builder/ListViewBuilder.class
+SHA-256-Digest: YnklpFomSXLrXVZVbMv+douO4LLAPZ7uASPHduZOYvc=
+
+Name: com/jgoodies/forms/factories/DefaultComponentFactory$FormsLabel.
+ class
+SHA-256-Digest: ihjs5dA66saA1R9FwnvTgfY8yFS80I4TEi3LsPss/Jc=
+
+Name: com/jgoodies/forms/debug/FormDebugUtils.class
+SHA-256-Digest: mQEHmxF+XTSj2YD1Vy62Y9Z9nWqIKdbExJa3AgCDw/4=
+
+Name: com/jgoodies/forms/builder/PanelBuilder.class
+SHA-256-Digest: ec+Bj+kJ8en64tYgfRaI5haTR7DFqv9qT0JgloZLcoE=
+
+Name: com/jgoodies/forms/FormsSetup.class
+SHA-256-Digest: 2j2y1pXZsAyBTpuxk1gwngNCJpUbxf0Jnh/S/4hxsm4=
+
+Name: com/jgoodies/forms/layout/CellConstraints$1.class
+SHA-256-Digest: Mhg3NY/wGKMc/kqdHjlJ5HqdjVF49yunWrzBE2KM4BM=
+
